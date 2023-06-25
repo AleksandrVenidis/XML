@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reg>
+<req>
 	<My_favorite_film>"The Wolf of Wall Street"</My_favorite_film>
 	<My_favorite_serial>"Multiplying sadness"</My_favorite_serial>
 	<My_favorite_dish>"Sushi"</My_favorite_dish>
 	<My_favorite_season>"Summer"</My_favorite_season>
 	<Country_which_you_want_visit>"Canada"<Country_which_you_want_visit>
-</reg>
+</req>
