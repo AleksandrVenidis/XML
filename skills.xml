@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req>
+	<s1>"Basic theory (What is testing, bug reports, documentation, types, methods, directions of testing, etc.) SDLC, STLC"</s1>
+	<s2>"What is client server architecture"</s2>
+	<s3>"HTTP Methods of requests to the server"</s3>
+	<s4>"HTTP server response codes"</s4>
+	<s5>"Structures of HTTP requests and responses"</s5>
+	<s6>"What is JSON, XML. Their structure"</s7>
+	<s7>"API testing through Postman (JS, API autotests)</s7>
+	<s8>"Removing and reading logs from an external server"</s8>
+	<s9>"Sniffing http web traffic through Charles and Fiddler"</s9>
+	<s10>"Dev Tools of web browsers (Google Chrome, FireFox)"</s10>
+</req>
+
