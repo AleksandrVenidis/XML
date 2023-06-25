@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<req>
+  <ID>001</ID>
+  <Summary>It does not open the object that was shown by the link</Summary>
+  <Pre-conditions>Open the site https://Real-estate.ge/</Pre-conditions>
+  <Steps to reproduce>	
+    <1.>Click on the "Black Sea" builder button</1.>
+    <2.>Place the cursor on the builder icon and click on it</2.>
+    </Step to reproduce>
+  <Expected result>The page of the developer "Black Sea" has opened</Expected result>
+  <Actual result>The page of the developer "Mardi" has opened</Actual result>
+  <Post-condition>Close the page</Post-condition>
+  <Environment>"Chrome" 104.0.5112.81 (Official build), (64 bit)</Enviroment>
+  <Severity>Trivial</Severity>
+  <Priority>Low</Priority>
+  <Date>"06/22/2023"</Date>
+  <Reporter>Aleksandr Ivanchenkov</Reporter>
+  <Attachment>"https://drive.google.com/..."</Attachment>
+</req>
